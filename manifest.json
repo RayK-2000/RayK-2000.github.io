@@ -1,6 +1,6 @@
 {
-    "name": "section9",
-    "short_name": "section9",
+    "name": "github_home",
+    "short_name": "github_home",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
